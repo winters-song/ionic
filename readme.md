@@ -1,5 +1,5 @@
 #Ionic is good
 ---
 
-1.
+1. dev is done.
 2.
